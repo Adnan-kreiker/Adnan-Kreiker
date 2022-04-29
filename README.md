@@ -14,7 +14,6 @@
 [![website](./img/globe-light.svg)](https://adnan-kreiker.netlify.app/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://adnan-kreiker.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AdnanKreiker#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AdnanKreiker#gh-dark-mode-only)
 &nbsp;&nbsp;
