@@ -8,8 +8,8 @@
 ## I'm a Developer, a Bodybuilder, a Linguist and an Uncle
 
 - 🌱 I’m currently learning TypeScript 😎
-- 🥅 2022 Goals: Dig even deeper in Vue.js and Nuxt.js
-- ⚡ Fun fact: I love Metal 🤘 and Salsa 🎶 and League of Legends 🕹
+- 🥅 2022 Goals: Dig even deeper into Vue.js and Nuxt.js and solve 100 leetcode problems
+- ⚡ Fun facts: I love Metal 🤘 and Salsa 🎶 and League of Legends 🕹
 
 ### Connect with me
 
