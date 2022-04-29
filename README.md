@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning TypeScript 😎
 - 🥅 2022 Goals: Dig even deeper in Vue.js and Nuxt.js
-- ⚡ Fun fact: I love Metal 🤘 and Salsa 🎶
+- ⚡ Fun fact: I love Metal 🤘 and Salsa 🎶 and League of Legends 🕹
 
 ### Connect with me
 
