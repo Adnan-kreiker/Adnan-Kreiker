@@ -47,4 +47,4 @@
 ---
 [![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan-Kreiker&show_icons=true&theme=radical)](https://github.com/Adnan-Kreiker/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Kreiker&show_icons=true&theme=radical)](https://github.com/Adnan-Kreiker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Kreiker&show_icons=true&theme=radical&layout=compact)](https://github.com/Adnan-Kreiker/github-readme-stats)
