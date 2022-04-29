@@ -1,7 +1,7 @@
 
 # Hi there, I'm Adnan Kreiker 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://adnan-kreiker.netlify.app/)
+[![Website](https://img.shields.io/website?label=Adnan-Kreiker.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://adnan-kreiker.netlify.app/)
 
 ## I'm a Developer, a Bodybuilder, a Linguist and an Uncle
 
