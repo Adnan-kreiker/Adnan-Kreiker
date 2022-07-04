@@ -7,7 +7,6 @@
 
 ## I'm a Developer, a Bodybuilder, a Linguist and an Uncle
 
-- 🌱 I’m currently learning TypeScript 😎
 - 🥅 2022 Goals: Dig even deeper into Vue.js and Nuxt.js and TypeScript
 - ⚡ Fun facts: I love Metal 🤘, Salsa 🎶 and League of Legends 🕹
 
