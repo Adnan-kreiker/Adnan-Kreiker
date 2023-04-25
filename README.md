@@ -7,7 +7,7 @@
 
 ## I'm a Developer, a Bodybuilder, a Linguist and an Uncle
 
-- 🥅 2022 Goals: Dig even deeper into Vue.js and Nuxt.js and TypeScript
+- 🥅 2023 Goals: Solve all TypeScript challenges, learn about machine learning and AI
 - ⚡ Fun facts: I love Metal 🤘, Salsa 🎶 and League of Legends 🕹
 
 ### Connect with me
