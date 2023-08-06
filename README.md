@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Adnan-Kreiker)
 
-## I'm a Developer, a Bodybuilder, a Linguist and an Uncle
+## I'm a Developer, a Bodybuilder, and an Uncle
 
 - 🥅 2023 Goals: Solve all TypeScript challenges, learn about machine learning and AI
 - ⚡ Fun facts: I love Metal 🤘, Salsa 🎶 and League of Legends 🕹
