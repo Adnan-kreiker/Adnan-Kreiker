@@ -1,28 +1,21 @@
 
 # Hi there, I'm Adnan Kreiker 👋
 
-[![Website](https://img.shields.io/website?label=Adnan-Kreiker.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://adnan-kreiker.netlify.app/)
+[![Website](https://img.shields.io/website?label=akreiker.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://akreiker.com)
 
 ![](https://komarev.com/ghpvc/?username=Adnan-Kreiker)
 
 ## I'm a Developer, a Bodybuilder, and an Uncle
 
-- 🥅 2023 Goals: Solve all TypeScript challenges, learn about machine learning and AI
-- ⚡ Fun facts: I love Metal 🤘, Salsa 🎶 and League of Legends 🕹
+- 🥅 2024 Goals: learn about machine learning and AI
 
 ### Connect with me
 
 [![website](./img/globe-light.svg)](https://adnan-kreiker.netlify.app/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://adnan-kreiker.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AdnanKreiker#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AdnanKreiker#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/adnan-kreiker#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/adnan-kreiker#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/adnan.kreiker#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/adnan.kreiker#gh-dark-mode-only)
 
 ### Languages and Tools
 
