@@ -5,10 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Adnan-Kreiker)
 
-## I'm a Developer, a Bodybuilder, and an Uncle
-
-- 🥅 2024 Goals: learn about machine learning and AI
-
 ### Connect with me
 
 [![website](./img/globe-light.svg)](https://adnan-kreiker.netlify.app/#gh-light-mode-only)
